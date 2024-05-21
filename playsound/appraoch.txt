@@ -1,0 +1,7 @@
+"
+ multitheading 
+ threading 
+ multiprocessing **
+ Process()
+ Prcess functin ko rokte kaisa hai 
+"
